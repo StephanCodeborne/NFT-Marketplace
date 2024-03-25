@@ -3,18 +3,18 @@ const artists = document.querySelector('.artists-container');
 const userNames = ['Keepitreal', 'DigiLab', 'GravityOne', 'Juanie', 'BlueWhale', 'MrFox', 'Shroomie', 'Robotica', 'RustyRobot', 'Animakid', 'Dotgu', 'Ghiblier'];
 
 const avatarLinks = [
-    '/avatars/top%201%20artist.png',
-    '/avatars/top%202%20artist.png',
-    '/avatars/top%203%20artist.png',
-    '/avatars/top%204%20artist.png',
-    '/avatars/top%205%20artist.png',
-    '/avatars/top%206%20artist.png',
-    '/avatars/top%207%20artist.png',
-    '/avatars/top%208%20artist.png',
-    '/avatars/top%209%20artist.png',
-    '/avatars/top%2010%20avatar.png',
-    '/avatars/top%2011%20avatar.png',
-    '/avatars/top%2012%20avatar.png'
+    './avatars/top%201%20artist.png',
+    './avatars/top%202%20artist.png',
+    './avatars/top%203%20artist.png',
+    './avatars/top%204%20artist.png',
+    './avatars/top%205%20artist.png',
+    './avatars/top%206%20artist.png',
+    './avatars/top%207%20artist.png',
+    './avatars/top%208%20artist.png',
+    './avatars/top%209%20artist.png',
+    './avatars/top%2010%20avatar.png',
+    './avatars/top%2011%20avatar.png',
+    './avatars/top%2012%20avatar.png'
   ];
   
 
